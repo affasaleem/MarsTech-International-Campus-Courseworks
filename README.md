@@ -15,7 +15,7 @@ Academic Assignments, Projects regarding **Artificial Intelligence**, **Backend 
 | `Artificial Intelligence` | Folder contains Algorithms, Assignments & projects. |
 | `Backend Development`      | Languages ,Tasks & Practicals       |
 | `Frontend Development`        | HTML/CSS/JS Assignments for Web designing training     |
-| `MarsTech Projects`   | Artificial and Full Stack Projects             |
+| `MarsTech Projects`   | Artificial Intelligence and Full Stack Projects             |
 | `README.md`               | The file you're currently viewing, which provides information about this folder. |
 
 ## 📩 Contact
