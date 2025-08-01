@@ -18,12 +18,13 @@ Academic Assignments, Projects regarding **Artificial Intelligence**, **Backend 
 | `MarsTech Projects`   | Artificial Intelligence and Full Stack Projects             |
 | `README.md`               | The file you're currently viewing, which provides information about this folder. |
 
-## 📩 Contact
-If you have any questions or encounter issues:
 
-Visit website: https://marstech.lk/
+## 🎯 Purpose
 
-Reach out via email: marstechcampus@gmail.com
+- Demonstrate learning outcomes and technical skills.
+- Organize and showcase project-based academic coursework.
+- Support collaborative learning and version control.
+
 
 ## 💡 Contribution Guide
 1. Fork this repository.
